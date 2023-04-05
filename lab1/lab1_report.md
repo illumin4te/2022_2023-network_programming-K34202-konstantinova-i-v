@@ -14,6 +14,8 @@ sudo pip3 install ansible
 
 ansible –version
  
+ ![image](https://user-images.githubusercontent.com/90499135/230172200-3b25c9dc-17eb-4fa3-be55-640fe860331c.png)
+
 Рисунок 1 – Установка Ansible
 
 Далее в VirtualBox выполнена установка CHR (RouterOS).
